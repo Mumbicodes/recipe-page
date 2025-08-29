@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chocolate Mug Cake Recipe</title>
+</head>
+<body>
+  <header>
+    <h1>Chocolate Mug Cake</h1>
+    <p>Indulge in the rich and creamy delight of this homemade Chocolate Mug Cake made in minutes.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>4 tablespoons all-purpose flour</li>
+        <li>2 tablespoons cocoa powder</li>
+        <li>3 tablespoons sugar</li>
+        <li>Pinch of salt</li>
+        <li>3 tablespoons milk</li>
+        <li>2 tablespoons vegetable oil</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>½ teaspoon baking powder</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Instructions</h2>
+      <ol>
+        <li>In a microwave-safe mug, mix together the flour, cocoa powder, sugar, baking powder, and salt.</li>
+        <li>Add the milk, vegetable oil, and vanilla extract. Stir well until smooth and lump-free.</li>
+        <li>Microwave on high for 70–90 seconds (watch closely so it doesn’t overflow).</li>
+        <li>Let it cool for about a minute.</li>
+        <li><em>Optional:</em> Top with vanilla ice cream, whipped cream, or chocolate chips for extra indulgence.</li>
+      </ol>
+    </section>
+
+    <section>
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A chocolate cake in a mug">
+    </section>
+  </main>
+</body>
+</html>
+
